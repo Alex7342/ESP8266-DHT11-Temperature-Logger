@@ -4,8 +4,8 @@
 #include <DHT.h>
 
 // Network credentials
-const char* ssid = "DIGI-34Zz";
-const char* password = "Q6yDHKUueY";
+const char* ssid = "-";
+const char* password = "-";
 
 // Server port
 const int PORT = 80;
